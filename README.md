@@ -7,7 +7,7 @@ These dashboards provide insights into various business performance indicators, 
 
 ### E-commerce Sales Dashboard
 
-![E-commerce Sales](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Ecommerce_sales.png)
+<img src="https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Ecommerce_sales.png" alt="E-commerce Sales" width="600"/>
 
 This dashboard tracks monthly sales performance, providing clear comparisons between target sales and actual sales across multiple product categories. Key features include:
 
@@ -17,7 +17,7 @@ This dashboard tracks monthly sales performance, providing clear comparisons bet
 
 ### Follower Engagement Dashboard
 
-![Follower Engagement](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Engagement.png)
+<img src="https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Engagement.png" alt="Follower Engagement" width="600"/>
 
 This dashboard provides valuable metrics for social media engagement and growth, ideal for tracking audience interaction over time. Key features include:
 
@@ -32,3 +32,8 @@ This dashboard provides valuable metrics for social media engagement and growth,
 - The **Follower Engagement Dashboard** provides actionable insights into social media performance. The graphs are well-organized, clearly presenting follower growth trends and engagement statistics. Such insights are crucial for optimizing content strategies and improving engagement rates.
 
 Both dashboards are user-friendly, with clear visualizations that make it easy to track performance over time. These designs are ideal for data-driven decision-making in both e-commerce and social media marketing domains.
+
+## Demo Video
+
+You can check out a demonstration of the dashboards in action here:  
+[Demo Video](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/2024-10-13%2014-38-29.mp4)
