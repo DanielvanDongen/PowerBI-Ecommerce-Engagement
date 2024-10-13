@@ -35,5 +35,8 @@ Both dashboards are user-friendly, with clear visualizations that make it easy t
 
 ## Demo Video
 
-You can check out a demonstration of the dashboards in action here:  
-[Demo Video](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/2024-10-13%2014-38-29.mp4)
+Here’s a demonstration of the dashboards in action:
+
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/2024-10-13%2014-38-29.mp4" type="video/mp4">
+</video>
