@@ -1,4 +1,4 @@
-# PowerBI-Ecommerce-Engagement-Dashboard
+# E-commerce and Follower Engagement Dashboards / PowerBI 
 
 ## Overview
 
@@ -7,6 +7,8 @@ These dashboards provide insights into various business performance indicators, 
 
 ### E-commerce Sales Dashboard
 
+![E-commerce Sales](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Ecommerce_sales.png)
+
 This dashboard tracks monthly sales performance, providing clear comparisons between target sales and actual sales across multiple product categories. Key features include:
 
 - **Sales vs. Target by Category (Monthly)**: Visual representation of sales performance for categories like Clothing, Electronics, and Furniture, benchmarked against target values.
@@ -14,6 +16,8 @@ This dashboard tracks monthly sales performance, providing clear comparisons bet
 - **Top 5 States Ranked by Profit**: Pie chart displaying the most profitable states (e.g., Maharashtra, Madhya Pradesh) in terms of sales and profits.
 
 ### Follower Engagement Dashboard
+
+![Follower Engagement](https://github.com/DanielvanDongen/PowerBI-Ecommerce-Engagement/blob/main/pictures/Engagement.png)
 
 This dashboard provides valuable metrics for social media engagement and growth, ideal for tracking audience interaction over time. Key features include:
 
