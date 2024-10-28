@@ -1,4 +1,4 @@
-# E-commerce and Follower Engagement Dashboards / PowerBI 
+# E-Commerce Dashboard / Sales and Follower Engagement / PowerBI
 
 ## Overview
 
